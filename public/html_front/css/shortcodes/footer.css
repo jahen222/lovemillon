@@ -1,6 +1,6 @@
 /*Footer Area*/
 /*Footer Top Area*/
-/*--------------------------------------  
+/*--------------------------------------
 	7. Call To Action Area
 ----------------------------------------*/
 .footer-top-area.bg-1 {
@@ -10,7 +10,7 @@
     position: relative;
 }
 .footer-top-area.overlay-bg::before {
-    background: #202020 none repeat scroll 0 0;
+    background: #581e4e none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -155,7 +155,7 @@ a.user-name {
     width: 100%;
 }
 .footer-bottom-area {
-    background: #1c1c1c none repeat scroll 0 0;
+    background: #7b2c6d none repeat scroll 0 0;
     padding: 25px 0;
 }
 .copyright-wrap p {

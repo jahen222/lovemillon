@@ -62,7 +62,7 @@ INSTRUCTIONS
       <div class="row">
         <div class="col-md-12 text-center">
           <div class="load-more-btn">
-            <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a>
+            <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register your dog</a>
             <br />
             <br />
             <br />

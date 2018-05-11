@@ -97,10 +97,10 @@
 
 .slide-v2 .estut-btn:hover,
 .slide-v2 .estut-btn.active {
-    background: #19caab none repeat scroll 0 0;
+    background: #f95da8 none repeat scroll 0 0;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
     color: #ffffff;
 }
 .slide-v2 .estut-btn.active:hover {
-    background: #07b193 none repeat scroll 0 0;
+    background: #fa85bd none repeat scroll 0 0;
 }

@@ -1,7 +1,7 @@
 .solid-bg-header,
 .estut-btn.active,
-.estut-btn:hover, 
-.intro-courses-container .estut-btn, 
+.estut-btn:hover,
+.intro-courses-container .estut-btn,
 .brand-logo-area.solid-bg-1,
 .quick-add-to-cart .single_add_to_cart_button, .call-to-action .estut-btn {
     background: #fff none repeat scroll 0 0;
@@ -9,11 +9,11 @@
 .total-amount span{
 	color: #69D2E7;
 }
-.header-top, .action-cart a, .estut-dropdown > li:hover > a , .estut-btn.active:hover, .intro-courses-container .estut-btn:hover, 
+.header-top, .action-cart a, .estut-dropdown > li:hover > a , .estut-btn.active:hover, .intro-courses-container .estut-btn:hover,
 .quick-add-to-cart .single_add_to_cart_button:hover, .call-to-action .estut-btn:hover{
-    background: #404040 none repeat scroll 0 0;
+    background: #7b2c6d none repeat scroll 0 0;
 }
-.action-cart a, .estut-dropdown > li:hover > a , .estut-btn.active:hover, .intro-courses-container .estut-btn:hover, 
+.action-cart a, .estut-dropdown > li:hover > a , .estut-btn.active:hover, .intro-courses-container .estut-btn:hover,
 .quick-add-to-cart .single_add_to_cart_button:hover, .call-to-action .estut-btn:hover {
     background: #69D2E7 none repeat scroll 0 0;
 }
@@ -29,13 +29,13 @@
 .action-cart a:hover {
   background: #F3C020 none repeat scroll 0 0;
 }
-.header-top-info > p , 
-.header-top-right ul > li , 
-.header-top-info > p  a, 
-.search-form button, 
-.search-form form input[type="text"], 
-.cart-btn a, 
-.cart-single-product-title p , 
+.header-top-info > p ,
+.header-top-right ul > li ,
+.header-top-info > p  a,
+.search-form button,
+.search-form form input[type="text"],
+.cart-btn a,
+.cart-single-product-title p ,
 .cart-single-product-del a{
 	color: #aaaaaa;
 }
@@ -52,10 +52,10 @@
 }
 
 .brand-logo-area.solid-bg-2 {
-  background: #eac75b none repeat scroll 0 0;
+  background: #ca82a3 none repeat scroll 0 0;
 }
 .brand-logo-area.solid-bg-2 .single-brand {
-  border-right: 1px solid #fadd82;
+  border-right: 1px solid #fcd1e6;
 }
 #scrollUp{
   background: #f3d474;
@@ -72,11 +72,11 @@
 	color:#fff;
 }
 a{
-	color:#f3d474;
+	color:#fcd1e6;
 }
 .author a:hover {
     color: #F3C020;
 }
 a:hover {
-    color: #F3C020;
+    color: #fcedf5;
 }

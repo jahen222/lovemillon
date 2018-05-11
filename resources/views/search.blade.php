@@ -15,7 +15,7 @@ Search
 			<div class="row">
 				<div class="col-md-12">
 					<div class="search-inner fix">
-						<div class="search-title"><a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a></div>
+						<div class="search-title"><a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register couple</a></div>
 						<div class="search-form-3">
 							<form action="{{ route('search') }}">
 								<select>

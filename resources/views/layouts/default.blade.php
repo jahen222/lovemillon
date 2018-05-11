@@ -72,7 +72,7 @@
                 <div class="row">
                   <div class="col-md-7 hidden-xs hidden-sm">
                     <div class="header-top-left header-top-info">
-                      <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a>
+                      <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register couple</a>
                       <p><a href="#"><i class="fa fa-envelope"></i>doggymillon@outlook.com</a></p>
                     </div>
                   </div>
@@ -112,7 +112,7 @@
                                     <li><a href="{{ route('razas') }}">RACES</a></li>
                                     <li class="menu-logo-2">
                                       <div class="header-logo-2">
-                                        <a href="{{ route('inicio') }}"><img src="{{ asset('assets/256_pixels/pc.jpg') }}" alt="main logo" /></a>
+                                        <a href="{{ route('inicio') }}"><img src="{{ asset('html_front_lovemillon/images/heart_1.png')  }}" alt="main logo" /></a>
                                       </div>
                                     </li>
                                     <li><a href="https://www.facebook.com/Doggymillon-190986285034679/">Facebook</a></li>
@@ -127,7 +127,7 @@
                 </div>
                   <div class="col-sm-3 hidden-md hidden-lg">
                     <div class="mobile-logo">
-                      <a href="{{ route('inicio') }}"><img src="{{ asset('assets/256_pixels/mobile2.jpg') }}" alt="main logo" /></a>
+                      <a href="{{ route('inicio') }}"><img src="{{ asset('html_front_lovemillon/images/heart_1.png') }}" alt="main logo" /></a>
                     </div>
                   </div>
                   <div class="col-sm-9 hidden-md hidden-lg">
@@ -200,7 +200,7 @@
                 <div class="newsletter">
                   <div class="col-md-6 col-md-offset-3 text-center">
                     <div class="footer-logo">
-                      <a href="{{ route('inicio') }}"><img src="{{ asset('assets/256_pixels/pc.jpg') }}" alt="footer Logo" /></a>
+                      <a href="{{ route('inicio') }}"><img src="{{ asset('html_front_lovemillon/images/heart_1.png') }}" alt="footer Logo" /></a>
                     </div>
                   </div>
                 </div>

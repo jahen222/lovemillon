@@ -24,7 +24,7 @@ Home
 							<div class="slider-content">
 								<!-- layer 1 -->
 								<div class="layer-1-1">
-									<h5 class="title1">Register your dog for only $1</h5>
+									<h5 class="title1">Register couple for only $1</h5>
 								</div>
 								<!-- layer 2 -->
 								<div class="layer-1-2">
@@ -36,7 +36,7 @@ Home
 								</div>
 								<!-- layer 4 -->
 								<div class="layer-1-4">
-									<a href="{{ route('dog.register') }}" class="estut-btn active hidden-sm hidden-xs">Register your dog</a>
+									<a href="{{ route('dog.register') }}" class="estut-btn active hidden-sm hidden-xs">Register couple</a>
 								</div>
 							</div>
 						</div>
@@ -51,7 +51,7 @@ Home
 							<div class="slider-content">
 								<!-- layer 1 -->
 								<div class="layer-2-1">
-									<h5 class="title1">Register your dog for only $1</h5>
+									<h5 class="title1">Register couple for only $1</h5>
 								</div>
 								<!-- layer 2 -->
 								<div class="layer-2-2">
@@ -63,7 +63,7 @@ Home
 								</div>
 								<!-- layer 4 -->
 								<div class="layer-2-4">
-									<a href="{{ route('dog.register') }}" class="estut-btn active hidden-sm hidden-xs">Register your dog</a>
+									<a href="{{ route('dog.register') }}" class="estut-btn active hidden-sm hidden-xs">Register couple</a>
 								</div>
 							</div>
 						</div>
@@ -79,7 +79,7 @@ Home
 			<div class="row">
 				<div class="col-md-12">
 					<div class="search-inner fix">
-						<div class="search-title"><a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a></div>
+						<div class="search-title"><a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register couple</a></div>
 						<div class="search-form-3">
 							<form action="{{ route('search') }}">
 								<select>

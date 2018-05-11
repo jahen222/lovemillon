@@ -38,7 +38,7 @@ Us
                   <br />
                   <h3>What are you waiting for?</h3>
                   <br />
-                  <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a>
+                  <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register couple</a>
                   <br />
                   <br />
                   <a href="{!! route('inicio') !!}" class="btn btn-default">Back</a>

@@ -78,7 +78,7 @@
           <div class="row">
             <div class="col-md-7 hidden-xs hidden-sm">
               <div class="header-top-left header-top-info">
-                <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #07b193; border-color:#07b193;">Register your dog</a>
+                <a href="{{ route('dog.register') }}" class="btn btn-success" style="background-color: #f95da8; border-color:#f95da8;">Register couple</a>
                 <p><a href="#"><i class="fa fa-envelope"></i>doggymillon@outlook.com</a></p>
               </div>
             </div>
